@@ -1,0 +1,8 @@
+.cardCep{
+    display: flex;
+    flex-direction: column;
+    
+}
+.cardCep span {
+    margin: 0.5em;
+}
